@@ -184,6 +184,7 @@ Durante tareas cognitivas:
 ## Autor
 
 Humberto Alonso Rodríguez Paredes
+Sergio Salamanca Hernández
 
 Ingeniería Biomédica
 
